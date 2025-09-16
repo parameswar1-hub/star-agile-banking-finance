@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: insurance
-          image: pranadock/demoinsurancerana:1.0
+          image: pranadock/demofinance:1.0
           ports:
             - containerPort: 8081
           env:
